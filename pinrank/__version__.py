@@ -1,8 +1,0 @@
-__title__ = 'pinrank'
-__description__ = 'Python Pinrank'
-__url__ = 'https://github.com/bryand1/pinrank'
-__version__ = '0.0.1'
-__author__ = 'Bryan Andrade'
-__author_email__ = 'me@bryanandrade.com'
-__license__ = 'MIT'
-__copyright__ = 'Copyright 2018 Bryan Andrade'
